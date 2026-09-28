@@ -1,0 +1,13 @@
+output/*
+!output/.gitkeep
+*.csv
+*.json
+*.xml
+*.log
+*.evtx
+*.key
+*.pem
+.env
+.env.*
+
+
